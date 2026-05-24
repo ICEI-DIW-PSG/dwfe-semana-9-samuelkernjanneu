@@ -4,14 +4,16 @@ Nesta atividade, vamos montar um programa para praticar funções em JavaScript 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome: Samuel Kern Janneu  
+- Matricula: 1612893
 
 ## Prints do trabalho
 
 <<  COLOQUE A IMAGEM - TELA DE CARDS DE PRODUTOS - AQUI >>
+![Cards](public/imagens/print%20cards%20renderizados.jpg)
 
 <<  COLOQUE A IMAGEM - TELA DE DETALHE DO PRODUTO - AQUI >>
+![Detalhes](public/imagens/detalhes.jpg)
 
 <<  COLOQUE A IMAGEM - TELA DO CONSOLE - AQUI >>
-
+![Console](public/imagens/console.jpg)
